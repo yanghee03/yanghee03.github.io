@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "T아카데미 블로그"
+title                    : "T아카데미 임시블로그"
 title_separator          : "|"
 subtitle                 : "솔직 소곤소곤" 
 name                     : "양 매니저"
-description              : "yanghee02.github.io"
+description              : "yanghee03.github.io"
 url                      : "https://yanghee03.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
